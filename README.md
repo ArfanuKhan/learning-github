@@ -6,6 +6,6 @@ A simple repo for learning GitHub
 Now lets look at the mark down 
 1. Now we are talking
     - yes 
-    no lets have a look
+    lets have a look
     
 ![alt text](http://picsum.photos/200)
